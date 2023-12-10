@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.techstack.cloud.gateway.CloudGatewayApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.653 s - in com.techstack.cloud.gateway.CloudGatewayApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.781 s - in com.techstack.cloud.gateway.CloudGatewayApplicationTests
